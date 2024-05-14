@@ -8,6 +8,7 @@ text.textContent =
     "ვენეცია ვენეტოს რეგიონის დედაქალია. სახელი მომდინარეობს აქ მაცხოვრებელი ანტიკური პერიოდის ხალხისგან, რომლებსაც ვენეტები ეწოდებოდათ.";
 text.style.color = "brown";
 text.style.fontSize = "28px";
+
 // circle
 let div1 = document.querySelector(".box");
 let div2 = document.createElement("div");

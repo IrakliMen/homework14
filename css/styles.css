@@ -8,6 +8,7 @@
     row-gap: 35px;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 .title {
     color: #ff4c50;
